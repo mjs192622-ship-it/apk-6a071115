@@ -1,2 +1,0 @@
-# apk-6a071115
-WebView APK for EC MANEGEMENTS
